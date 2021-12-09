@@ -1,0 +1,6 @@
+projectKey=Rubenati-Vulnerable-PHP
+serverUrl=https://kumudso-sonar.com
+serverVersion=9.1.0.47736
+dashboardUrl=https://kumudso-sonar.com/dashboard?id=Rubenati-Vulnerable-PHP
+ceTaskId=AX1qxMoTAI0esBPbDUrE
+ceTaskUrl=https://kumudso-sonar.com/api/ce/task?id=AX1qxMoTAI0esBPbDUrE
